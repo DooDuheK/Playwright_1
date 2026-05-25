@@ -1,0 +1,6 @@
+let round
+for(round=1; round<=20 ; round++){
+    if(round%2!=0){
+    console.log(round)
+    }
+}
